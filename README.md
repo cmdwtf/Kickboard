@@ -6,19 +6,19 @@ A CircuitPython project on a RP2040 that allows a foot-friendly array of buttons
 [![A short video of when I was tinkering with the code and testing inputs.](http://img.youtube.com/vi/LfTv5-k_ZrU/0.jpg)](http://www.youtube.com/watch?v=LfTv5-k_ZrU "A short video of when I was tinkering with the code and testing inputs.")  
 _A short video of when I was tinkering with the code and testing inputs._
 
-[![The finished prototype.](.meta/final.jpg "The finished prototype.")  
+![The finished prototype.](.meta/final.jpg "The finished prototype.")  
 _The finished prototype._
 
-[![Pedals.](.meta/pedals.jpg "Pedals.")  
+![Pedals.](.meta/pedals.jpg "Pedals.")  
 _Pedals._
 
-[![A peek under the hood.](.meta/brains1.jpg "A peek under the hood.")  
+![A peek under the hood.](.meta/brains1.jpg "A peek under the hood.")  
 _A peek under the hood._
 
-[![The case mid being cut out.](.meta/build-case2.jpg "The case mid being cut out.")  
+![The case mid being cut out.](.meta/build-case2.jpg "The case mid being cut out.")  
 _The case mid being cut out._
 
-[![An early proof of concept in a random cardboard box.](.meta/poc0.jpg "An early proof of concept in a random cardboard box.")  
+![An early proof of concept in a random cardboard box.](.meta/poc0.jpg "An early proof of concept in a random cardboard box.")  
 _An early proof of concept in a random cardboard box._
 
 
